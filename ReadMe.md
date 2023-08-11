@@ -1,7 +1,7 @@
 # Primer repositorio
 
 #### Integrantes:
-- Jouse Quiros
+- Josue Quiros
 - Francisco Duarte
 - 
 #### Pais: 
