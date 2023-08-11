@@ -1,6 +1,6 @@
 # Primer repositorio
 
-##Trabajo Grupal Modulo Github
+Trabajo Grupal Modulo Github
 
 #### Integrantes:
 - Josue Quiros
